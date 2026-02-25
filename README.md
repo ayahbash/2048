@@ -1,6 +1,4 @@
 # 2048 ⁂
-a group project for DSA III class.
-
 a 2048 game implementation using SDL2 in C. this project involves creating a simple version of the classic 2048 game, where players slide tiles on a grid to combine them into a tile of 2048.
 
 ## features
@@ -90,4 +88,4 @@ gcc -g -o "NumberSlide.exe" main.c render.c input.c utils.c cgame.c -I include -
 
 
 ## credits
-group project for DSA3 class — USTHB 2024
+group project for DSA III class — USTHB 2024
