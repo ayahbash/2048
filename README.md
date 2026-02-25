@@ -9,7 +9,7 @@ a 2048 game implementation using SDL2 in C. this project involves creating a sim
 - **sound and music**: background music and sound effects.
 
 
-##screenshots
+## screenshots
 
 ![Alt text](Screenshots/Welcomepic.png)
 
