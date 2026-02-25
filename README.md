@@ -88,8 +88,6 @@ gcc -g -o "NumberSlide.exe" main.c render.c input.c utils.c cgame.c -I include -
 -  press 'Esc': exit the game.
 -  when you exit without finsing your game, you will be asked if you want to resume your last game or start a new one in your next launch of the game
 
----
 
 ## credits
----
 group project for DSA3 class — USTHB 2024
